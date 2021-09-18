@@ -30,8 +30,13 @@ o	Were you able to achieve the target model performance?
 
 75% accuracy was not achieved the highest was 73%.
 
+![Optimization_Try_1](https://user-images.githubusercontent.com/83199109/133878132-56c4e15d-9e30-45a4-821f-1d5e470fbec1.png)
+
 o	What steps did you take to try and increase model performance? Removed columns and increased neurons 
 
 I changed my features, activation functions, Hidden Layers, and the number of neurons in order to achieve this, as well as dropping columns.
+
+
+
 ## Summary: ##
 Overall the neural network model did well with at least a 73% accuracy rate. I would recommend using the Random Forest classifier. The output and feature selection of this model are easy to understand. The data in this analysis is not to complex to need a deep learning model. 
