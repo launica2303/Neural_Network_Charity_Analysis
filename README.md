@@ -20,6 +20,10 @@ o	What variable(s) are neither targets nor features, and should be removed from 
 
 For the second and third try EIN, Name, and on the third Status was taken out since these columns had no real bearing on the outcome of the results.
 
+![Optimization_Try_2](https://user-images.githubusercontent.com/83199109/133878193-d4a30c5e-7a75-4ebb-b902-d95550eea0a5.png)
+
+![Optimization_Try_3](https://user-images.githubusercontent.com/83199109/133878195-9bf55b73-ea67-4538-9883-63b3eff97f97.png)
+
 ### •	Compiling, Training, and Evaluating the Model ###
 
 o	How many neurons, layers, and activation functions did you select for your neural network model?
@@ -28,7 +32,7 @@ Up to 3 hidden layers were added on one try and raising the neurons.
 
 o	Were you able to achieve the target model performance? 
 
-75% accuracy was not achieved the highest was 73%.
+75% accuracy was not achieved the highest was 73% on the first attempt.
 
 ![Optimization_Try_1](https://user-images.githubusercontent.com/83199109/133878132-56c4e15d-9e30-45a4-821f-1d5e470fbec1.png)
 
